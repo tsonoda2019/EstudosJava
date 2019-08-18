@@ -18,6 +18,8 @@ public class Program {
 		cal.add(Calendar.MINUTE, 4);
 		d = cal.getTime();
 		System.out.println(sdf.format(d));
+		
+		System.out.println("BOM DIA");
 	}
 
 }
